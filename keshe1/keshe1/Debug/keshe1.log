@@ -1,0 +1,3 @@
+﻿  snake.cpp
+D:\keshe\keshe1\keshe1\snake.cpp(29,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  keshe1.vcxproj -> D:\keshe\keshe1\Debug\keshe1.exe
